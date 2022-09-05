@@ -1,0 +1,26 @@
+# Javascript Module List
+- Node Mailer
+- SweetAlert2
+- Axios
+- Chart.js
+- Cross-env
+- ExcelJS
+- Moment
+- MUI
+- lodash
+- node-mysql2
+- ReactJS
+- Ionic
+- Next.js
+- Strapi
+- http-server
+- nodemon
+- qs
+- form-data
+- Jimp
+- uuid
+- mime
+- typescript-eslint
+- formidable
+- node-cache
+- ioredis
