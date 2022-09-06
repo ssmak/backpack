@@ -24,3 +24,5 @@
 - formidable
 - node-cache
 - ioredis
+- dotenv
+- iron-session
