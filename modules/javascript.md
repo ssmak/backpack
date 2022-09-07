@@ -1,26 +1,28 @@
-# Javascript Module List
-- Node Mailer
-- SweetAlert2
-- Axios
-- Chart.js
-- Cross-env
-- ExcelJS
-- Moment
-- MUI
-- lodash
-- node-mysql2
-- ReactJS
-- Ionic
-- Next.js
-- Strapi
-- http-server
-- nodemon
-- qs
-- form-data
-- Jimp
-- uuid
-- mime
-- typescript-eslint
-- formidable
-- node-cache
-- ioredis
+# Javascript
+
+### Framework
+###### Frontend
+| ReactJS | Ionic | | | |
+| - | - | - | - | - |
+
+###### Backend
+| Next.js | Strapi | | | |
+| - | - | - | - | - |
+
+---
+
+### Module
+###### Frontend
+| MUI | SweetAlert2 | Chart.js | | |
+| - | - | - | - | - |
+
+###### Backend
+| Node Mailer | Cross-env | node-mysql2 | http-server | nodemon |
+| - | - | - | - | - |
+| Jimp | typescript-eslint | formidable | node-cache | ioredis |
+| dotenv | iron-session |
+
+###### Frontend / Backend
+| Axios | ExcelJS | Moment | lodash | qs |
+| - | - | - | - | - |
+| form-data | uuid | mime |
