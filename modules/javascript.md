@@ -2,11 +2,11 @@
 
 ### Framework
 ###### Frontend
-| ReactJS | Ionic | | | |
+| ReactJS | Ionic | Expo | Cordova | |
 | - | - | - | - | - |
 
 ###### Backend
-| Next.js | Strapi | | | |
+| Next.js | Strapi | Nest.js | Express | Fastify |
 | - | - | - | - | - |
 
 ---
