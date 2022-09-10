@@ -20,7 +20,7 @@
 | Node Mailer | Cross-env | node-mysql2 | http-server | nodemon |
 | - | - | - | - | - |
 | Jimp | typescript-eslint | formidable | node-cache | ioredis |
-| dotenv | iron-session |
+| dotenv | iron-session | ts-node | typescript | @types/node
 
 ###### Frontend / Backend
 | Axios | ExcelJS | Moment | lodash | qs |
