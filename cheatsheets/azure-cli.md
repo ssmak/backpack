@@ -18,7 +18,7 @@ az account set --subscription Proof-Of-Concept
 az eventgrid topic list
 ```
 
-<br />
-**_Author: Steve Mak_**<br />
-_Last Update: 9/11/2022, 5:13:26 PM_
+<br /><br />
+**_Author: Steve Mak_**
+_Last Update: 9/11/2022, 5:25:27 PM_
 
