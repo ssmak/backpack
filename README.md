@@ -5,7 +5,7 @@ Collection of snippet, cheatsheet, quick reference and brain dump for web develo
 ### Braindump
 | | | | | |
 | - | - | - | - | - |
-| [azure](https://github.com/ssmak/backpack/blob/main/braindump/azure.md) |
+| [azure](https://github.com/ssmak/backpack/blob/main/braindump/azure.md) | [apple-submission](https://github.com/ssmak/backpack/blob/main/braindump/apple-submission.md)
 ---
 ### Cheatsheet
 | | | | | |
