@@ -8,7 +8,7 @@ Just a snapshot of brain for continously learning and reference.
 | App Service | *.azurewebsites.net |
 | App Gateway | *.azure-api.net |
 | B2C Tenant | *.onmicrosoft.com |
-| Storage Account (Blob) | https://\*.blob.core.windows.net/\* |\
+| Storage Account (Blob) | https://\*.blob.core.windows.net/\* |
 
 ### Event
 | Product | Similar Product(s) | Features |

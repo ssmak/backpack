@@ -15,7 +15,7 @@ Collection of snippet, cheatsheet, quick reference and brain dump for web develo
 ### Modules
 | | | | | |
 | - | - | - | - | - |
-| [javascript](https://github.com/ssmak/backpack/blob/main/modules/javascript.md) |
+| [javascript](https://github.com/ssmak/backpack/blob/main/modules/javascript.md) | [java](https://github.com/ssmak/backpack/blob/main/modules/java.md)
 ---
 ### References
 | | | | | |
