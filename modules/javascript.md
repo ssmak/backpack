@@ -26,3 +26,7 @@
 | Axios | ExcelJS | Moment | lodash | qs |
 | - | - | - | - | - |
 | form-data | uuid | mime |
+
+<br />
+**_Author: Steve Mak_**<br />
+_Last Update: 9/11/2022, 5:10:01 PM_

@@ -20,3 +20,7 @@
 | 416 | Range Not Satisfiable |
 | **500** | **Internal Server Error** |
 | 503 | Service Unavailable |
+
+<br />
+**_Author: Steve Mak_**<br />
+_Last Update: 9/11/2022, 5:10:26 PM_
