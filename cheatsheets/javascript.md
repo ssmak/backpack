@@ -33,3 +33,10 @@ for (const key of Person) { ... }
 if("birth" in Person) { ... }
 
 ```
+
+### function
+```typescript
+function firstElement<Type>(arr: Type[]): Type | undefined {
+  return arr[0];
+}
+```
