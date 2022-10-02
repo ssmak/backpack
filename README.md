@@ -10,7 +10,7 @@ Collection of snippet, cheatsheet, quick reference and brain dump for web develo
 ### Cheatsheet
 | | | | | |
 | - | - | - | - | - |
-| [azure-cli](https://github.com/ssmak/backpack/blob/main/cheatsheets/azure-cli.md) | [http-status-code](https://github.com/ssmak/backpack/blob/main/cheatsheets/http-status-code.md) |
+| [azure-cli](https://github.com/ssmak/backpack/blob/main/cheatsheets/azure-cli.md) | [http-status-code](https://github.com/ssmak/backpack/blob/main/cheatsheets/http-status-code.md) | [eslint-setup](https://github.com/ssmak/backpack/blob/main/cheatsheets/eslint-setup.md) | [typescript](https://github.com/ssmak/backpack/blob/main/cheatsheets/typescript.md)
 ---
 ### Modules
 | | | | | |

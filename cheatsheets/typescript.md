@@ -1,4 +1,4 @@
-# Javascript
+# Typescript
 
 ### Primitive types
 ```typescript
