@@ -40,3 +40,7 @@ function firstElement<Type>(arr: Type[]): Type | undefined {
   return arr[0];
 }
 ```
+
+<br /><br />
+**_Author: Steve Mak_**<br />
+_Last Update: 10/2/2022, 6:56:17 PM_

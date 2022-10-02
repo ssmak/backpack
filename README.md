@@ -31,4 +31,4 @@ Collection of snippet, cheatsheet, quick reference and brain dump for web develo
 
 <br /><br />
 **_Author: Steve Mak_**<br />
-_Last Update: 9/11/2022, 5:24:36 PM_
+_Last Update: 10/2/2022, 6:55:19 PM_
