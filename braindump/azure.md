@@ -9,6 +9,7 @@ Just a snapshot of brain for continously learning and reference.
 | App Gateway | *.azure-api.net |
 | B2C Tenant | *.onmicrosoft.com |
 | Storage Account (Blob) | https://\*.blob.core.windows.net/\* |
+| Event Hub | sb://*.servicebus.windows.net |
 
 ### Event
 | Product | Similar Product(s) | Features |
@@ -26,4 +27,4 @@ Just a snapshot of brain for continously learning and reference.
 
 <br /><br />
 **_Author: Steve Mak_**<br />
-_Last Update: 9/11/2022, 5:23:05 PM_
+_Last Update: 10/2/2022, 7:00:13 PM_
