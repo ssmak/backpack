@@ -20,6 +20,7 @@ Collection of snippet, cheatsheet, quick reference and brain dump for web develo
 ### References
 | | | | | |
 | - | - | - | - | - |
+| [vsc-extensions](https://github.com/ssmak/backpack/blob/main/references/vsc-extensions.txt)
 ---
 ### Snippets
 #### Typescript
